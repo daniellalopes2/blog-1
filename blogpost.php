@@ -208,7 +208,7 @@
 				<div>
 					<h1 style="font-size: 20px; padding-top: 3px">
 						<br //><b>Quer saber mais? Assine nosso conteúdo semanal!</b>
-						<a href="index.html"><b style="font-size: 20px">Cadastre seu email aqui!</b></a>
+						<a href="index.php"><b style="font-size: 20px">Cadastre seu email aqui!</b></a>
 					</h1>
 				</div>
 				<br //>
@@ -218,6 +218,6 @@
 
 		</div>		
 	</body>
-</html>
+</php>
 
 
